@@ -1,0 +1,16 @@
+.card {
+    border-radius: 10px;
+  }
+  
+  .card-title {
+    font-weight: bold;
+  }
+  
+  .card-footer {
+    background-color: #f8f9fa;
+  }
+  
+  .badge {
+    font-size: 0.8rem;
+  }
+  
